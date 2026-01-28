@@ -1,2 +1,5 @@
 # who-profits-from-ice
 Who Profits From ICE documents companies and institutions that financially benefit from ICE enforcement through public contracts and supply chains.
+
+
+This project is licensed under the **AGPL-3.0 License**. See [LICENSE](LICENSE) for details.
